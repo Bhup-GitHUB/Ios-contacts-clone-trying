@@ -9,9 +9,6 @@ This project is an Android app that replicates the functionality and user interf
 - **User-Friendly Interface:** Intuitive and easy-to-use interface similar to the iOS Contact App.
 - **Storage:** Contacts are stored locally on the device.
 
-## Screenshots
-
-[Insert screenshots or GIFs demonstrating the application in action]
 
 ## Installation
 
